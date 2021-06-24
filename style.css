@@ -251,6 +251,7 @@ body {
 }
 
 .info {
+  width: 100%;
 }
 
 .hashtags {
@@ -325,6 +326,8 @@ li {
   display: flex;
   justify-content: space-between;
   border: 1px solid lightgray;
+  width: 92%;
+  
 }
 
 .channel .metadata {
